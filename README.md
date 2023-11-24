@@ -1,4 +1,6 @@
-# learn-basic-java
+# Learn a Basic Java
+
+Using JDK Version: openjdk-21.0.1
 
 Hi, Here I'm Learning Basic Java
 All detail I'm write it in comment.
