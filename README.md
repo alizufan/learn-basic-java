@@ -2,8 +2,7 @@
 
 Using JDK Version: openjdk-21.0.1
 
-Hi, Here I'm Learning Basic Java
-All detail I'm write it in comment.
+Hi, Here I'm Learning Basic Java, all detail I'm write it in comment.
 
 Big Thank's for Channel Youtube Pemograman Zaman Now:
 - [Youtube Channel PZN](https://youtu.be/jiUxHm9l1KY?feature=shared)
