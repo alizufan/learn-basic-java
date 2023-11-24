@@ -6,8 +6,8 @@ Hi, Here I'm Learning Basic Java
 All detail I'm write it in comment.
 
 Big Thank's for Channel Youtube Pemograman Zaman Now:
-- (Youtube)[https://youtu.be/jiUxHm9l1KY?feature=shared]
-- (Playlist)[https://www.youtube.com/playlist?list=PL-CtdCApEFH-p_Q2GyK4K3ORoAT0Yt7CX]
+- [Youtube Channel PZN](https://youtu.be/jiUxHm9l1KY?feature=shared)
+- [Playlist Java PZN](https://www.youtube.com/playlist?list=PL-CtdCApEFH-p_Q2GyK4K3ORoAT0Yt7CX)
 
 What i learn:
  - Program: Hello world
