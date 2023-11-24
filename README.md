@@ -8,7 +8,7 @@ Big Thank's for Channel Youtube Pemograman Zaman Now:
 - [Youtube Channel PZN](https://youtu.be/jiUxHm9l1KY?feature=shared)
 - [Playlist Java PZN](https://www.youtube.com/playlist?list=PL-CtdCApEFH-p_Q2GyK4K3ORoAT0Yt7CX)
 
-What i learn:
+What I Learn:
  - Program: Hello world
  - Type Data Number (Integer, Floating Point, Literals)
  - Underscore in Number
