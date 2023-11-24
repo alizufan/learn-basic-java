@@ -45,6 +45,6 @@ What i learn:
  - Scope
  - Code Comment
 
-Next what i want learn is Java OOP.
+Next, learn is Java OOP.
 
 Thank you !
